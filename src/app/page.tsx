@@ -1,5 +1,6 @@
 "use client";
 
+import CollegeParts from "@/containers/CollegeParts";
 import Contactus from "@/containers/Contactus";
 import Description from "@/containers/Description";
 import ExplainerVideo from "@/containers/ExplainerVideo";
@@ -40,6 +41,7 @@ export default function Home() {
      {/* <Value /> v2 */}
      {/* <Pricing /> */}
      {/* <FAQs /> */}
+     <CollegeParts />
      <Contactus />
      {/* <Note /> */}
      <Footer />
