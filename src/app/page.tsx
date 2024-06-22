@@ -13,6 +13,9 @@ import Intro from "@/containers/Intro";
 import Navbar from "@/containers/Navbar";
 import Note from "@/containers/Note";
 import Pricing from "@/containers/Pricing";
+import SectionFive from "@/containers/SectionFive";
+import SectionSeven from "@/containers/SectionSeven";
+import SectionSix from "@/containers/SectionSix";
 import Show from "@/containers/Show";
 import Value from "@/containers/Value";
 import Ways from "@/containers/Ways";
@@ -42,6 +45,9 @@ export default function Home() {
      {/* <Pricing /> */}
      {/* <FAQs /> */}
      <CollegeParts />
+     <SectionFive />
+     <SectionSix />
+     <SectionSeven />
      <Contactus />
      {/* <Note /> */}
      <Footer />

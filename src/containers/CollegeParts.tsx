@@ -2,7 +2,7 @@ import React from 'react'
 
 function CollegeParts() {
   return (
-    <div className=' flex justify-center items-center w-full mt-40'>
+    <div className=' flex justify-center items-center w-full mt-40 mb-20'>
         <div className=' grid grid-cols-1 md:grid-cols-3 w-3/5 gap-7'>
             <div className=' bg-[#02529B] rounded-lg'>
                 <div className=' h-40'>

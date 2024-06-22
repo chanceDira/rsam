@@ -19,7 +19,7 @@ const ExplainerVideo = () => {
 
     <div className="flex flex-col justify-center items-center w-11/12 md:w-full my-2 md:my-20 bg-white  ">
     <div className=" text-[#02529B] font-bold text-2xl w-3/5 text-center mt-10">
-    Music Is An Agreeable Harmony For The Honor Of God And The Permissible Delights Of The Soul."
+    Music Is An Agreeable Harmony For The Honor Of God And The Permissible Delights Of The Soul.
     </div>
     
     <div className=" mt-10 laptop-frame relative flex justify-center items-center w-full h-full mb-8 ">

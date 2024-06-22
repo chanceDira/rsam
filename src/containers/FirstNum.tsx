@@ -6,7 +6,7 @@ const FirstNum = () => {
       <div className=" text-[#02529B] font-bold  flex flex-row items-center justify-between my-20  w-11/12 md:w-4/5">
         <div className=" text-2xl w-2/3">
           Music Is An Agreeable Harmony For The Honor Of God And The Permissible
-          Delights Of The Soul."
+          Delights Of The Soul.
         </div>
 
         <div className=" flex flex-row gap-4">

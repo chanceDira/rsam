@@ -64,8 +64,8 @@ const HowItWorksV2 = () => {
   >
 
 
-    <div className="md:w-4/5  text-lg md:text-center  md:text-2xl my-6 text-secondary-500 font-medium">
-     Music in the Air
+    <div className="md:w-4/5  text-2xl md:text-center  md:text-3xl my-6 text-[#02529B] font-bold mt-20">
+    Empowering Rwanda's Musical Future
     </div>
 
     <div className="grid grid-cols-1 md:grid-cols-2  w-full gap-8 mt-4">

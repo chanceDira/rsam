@@ -27,14 +27,15 @@ const Footer = () => {
           <Link href={`/`}>Contact</Link>
         </div>
       </div>
-      <div className=" w-11/12 flex border-t pt-5  flex-col justify-center  items-center md:justify-between gap-10 my-6">
-        <div className=" font-light text-sm">
+      <div className=" w-11/12 flex  border-t pt-5  flex-col md:flex-row justify-center  items-center md:justify-between gap-10 my-6">
+        <div className=" font-light text-xs">
           © 2024 RSAM.com all rights reserved
         </div>
+        <div className=" font-light text-xs">
+          Designed by <a href="https://codiblegroup.com" target="_blank" className=" underline">Codible Group</a>
+        </div>
       </div>
-      <div className="  hidden absolute min-h-screen top-0  w-full">
-        <img src="wave.svg" alt="" />
-      </div>
+     
     </div>
   );
 };
