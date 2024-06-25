@@ -40,9 +40,12 @@ const Navbar = () => {
   return (
     <div className="  fixed  z-40  flex w-full md:w-full flex-row items-center justify-between shadow bg-white l  ">
       <div className=" p-4  md:p-4 md:px-8 flex flex-row items-center justify-center gap-2">
-        <div className=" text-2xl font-bold">
+        <div className=" text-2xl font-bold flex flex-row gap-4">
           <a href="/">
          <img src="rsamlogo.svg" alt="" />
+          </a>
+          <a href="">
+            <img src="rtb.png" alt="" className="   h-16" />
           </a>
         </div>
       </div>
