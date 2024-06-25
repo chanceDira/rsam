@@ -24,7 +24,7 @@ const Intro = () => {
     >
 
 <div className=" absolute  w-full min-h-screen  ">
-        <img src="stage.png" alt="" className=" w-full min-h-screen object-cover" />
+        <img src="nyu.jpg" alt="" className=" w-full min-h-screen object-cover" />
       </div>
 
   
@@ -38,7 +38,9 @@ const Intro = () => {
         </div>
       
     <div className=" bg-[#F0E12F] font-semibold text-[#02529B] rounded-full px-12 py-2  cursor-pointer mt-6">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXG1GKDbR8CITKrIKcrY2VFoazoyhZ123RI2lO_os5qsTa4w/viewform" target="_blank"> 
       Join Now
+      </a>
     </div>
       
       </div>

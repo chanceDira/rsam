@@ -2,7 +2,9 @@ import React from 'react'
 
 const Show = () => {
   return (
-    <div className=' min-h-screen flex flex-col items-center w-full'>
+    <div
+    id="spirits"
+    className=' min-h-screen flex flex-col items-center w-full'>
 
       <div className=' text-[#02529B] text-2xl font-bold mb-8'>
       Music Is An Agreeable Harmony For The Honor Of God And The Permissible Delights Of The Soul.

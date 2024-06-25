@@ -2,7 +2,9 @@ import React from 'react'
 
 const SectionSeven = () => {
   return (
-    <div className=' flex  flex-col justify-center items-center min-h-screen w-full '>
+    <div
+    id='community'
+    className=' flex  flex-col justify-center items-center min-h-screen w-full '>
         <div className=' text-[#02529B] text-3xl font-bold mb-10 mt-10'>
         A premier education. a community that cares.
         </div>

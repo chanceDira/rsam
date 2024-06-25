@@ -50,22 +50,22 @@ const Navbar = () => {
       <div className=" p-4  md:p-4 md:px-8 hidden md:block  md:flex flex-row items-center justify-center gap-20">
         <div className="flex flex-row gap-8 text-sm  text-secondary-500">
           <div className="flex cursor-pointer flex-col hover:text-primary-500 transition"> 
-            <a href="#">Home</a>
+            <a href="/">Home</a>
           </div>
           <div className=" cursor-pointer  hover:text-primary-500">
-            <a href="#">About</a>
+            <a href="#features">Features</a>
           </div>
           <div className=" cursor-pointer  hover:text-primary-500">
             <a href="/">Program</a>
           </div>
           <div className=" cursor-pointer hover:text-primary-500">
-            <a href="#">Classes</a>
+            <a href="#creativity">creativity</a>
           </div>
           <div className=" cursor-pointer hover:text-primary-500">
-            <a href="#">Events</a>
+            <a href="#community">Community</a>
           </div>
           <div className=" cursor-pointer hover:text-primary-500">
-            <a href="#">Contact</a>
+            <a href="#contactus">Contact</a>
           </div>
          
         </div>
@@ -75,7 +75,9 @@ const Navbar = () => {
 
 <div  onClick={logout} className=" hover:shadow-lg cursor-pointer bg-[#02529B] rounded-full p-0.5 text-sm  text-white">
                 <div className=" px-6 py-2 font-bold rounded-full">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXG1GKDbR8CITKrIKcrY2VFoazoyhZ123RI2lO_os5qsTa4w/viewform" target="_blank">
                   Join Now
+        </a>
                 </div>
             </div>
 

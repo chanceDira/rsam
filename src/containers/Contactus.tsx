@@ -2,7 +2,10 @@ import React from "react";
 
 const Contactus = () => {
   return (
-    <div className=" flex flex-col items-center  w-11/12 md:w-9/12   py-24   ">
+    <div
+    id="contactus"
+  
+    className=" flex flex-col items-center  w-11/12 md:w-9/12   py-24   ">
  
       <div className="md:w-4/5 font- text-lg md:text-center  md:text-2xl my-6">
         Have any questions? Please leave your message, and we'll be happy to

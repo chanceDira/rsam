@@ -72,7 +72,9 @@ Zithar). This rich culture has been muted by the absence of a local music indust
 the country’s music is not as well known as other African music.
       </div>
       <div className=" bg-[#02529B] w-fit text-white py-2 px-14 rounded-full cursor-pointer">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfXG1GKDbR8CITKrIKcrY2VFoazoyhZ123RI2lO_os5qsTa4w/viewform" target="_blank">
         Join Now
+        </a>
       </div>
       </motion.div>
 

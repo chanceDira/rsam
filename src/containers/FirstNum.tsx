@@ -2,7 +2,10 @@ import React from "react";
 
 const FirstNum = () => {
   return (
-    <div className=" bg-[#FDF3EA]  w-full z-50 flex justify-center items-center">
+    <div
+    id="aboutus"
+    
+    className=" bg-[#FDF3EA]  w-full z-50 flex justify-center items-center">
       <div className=" text-[#02529B] font-bold  flex flex-row items-center justify-between my-20  w-11/12 md:w-4/5">
         <div className=" text-2xl w-2/3">
           Music Is An Agreeable Harmony For The Honor Of God And The Permissible

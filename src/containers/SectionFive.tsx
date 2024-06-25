@@ -2,7 +2,9 @@ import React from 'react'
 
 const SectionFive = () => {
   return (
-    <div className=' min-h-screen  w-full flex justify-center items-center bg-[#02529B]'>
+    <div
+    id="creativity"
+    className=' min-h-screen  w-full flex justify-center items-center bg-[#02529B]'>
         <div className=' flex flex-col gap-10 md:flex-row items-center justify-between w-4/5 b'>
 
         <div className=' w-1/2'>

@@ -59,7 +59,7 @@ const HowItWorksV2 = () => {
   return (
     <div
     ref={ref}
-    id="howitworks"
+    id="features"
     className=" md:mt-2 mt-20  flex flex-col relative items-center justify-center w-11/12 md:w-9/12  "
   >
 
